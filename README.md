@@ -17,7 +17,7 @@ GPA: 4.7/5.0 - Presidential Honours
 
 # Work Experience
 
-![OPS Logo](/assets/ontario_public_service_leadership_logo.jpg)
+![OPS Logo](/assets/ontario_public_service_leadership_logo.jpg){:.centered}
 ## Ontario Public Service (OPS)
 
 ### Systems Grants Officer
@@ -30,7 +30,7 @@ May 2024 - Aug 2024
 - Sample IT one
 - Sample IT two
 
-![OTU Logo](/assets/uoit_logo.jpg)
+![OTU Logo](/assets/uoit_logo.jpg){:.centered}
 ## Ontario Tech University
 
 ### Sessional Lecturer
@@ -54,21 +54,21 @@ May 2024 - Aug 2024
 - Courses tutoried two
 
 ## Oxford Learning Centres Inc.
-![Oxford Logo](/assets/oxford_learning_center_logo.jpg)
+![Oxford Logo](/assets/oxford_learning_center_logo.jpg){:.centered}
 
 ### Math Teacher
 - Sample Line 1
 - Sample Line 2
 
 ## Durham College Students Association
-![DCSA Logo](/assets/durham_college_students_inc_logo.jpg)
+![DCSA Logo](/assets/durham_college_students_inc_logo.jpg){:.centered}
 
 ### Events Team Representative
 - Sample sentence one
 - Sample sentence two
 
 ## Toronto Pan Am Sports Centre
-![TPASC Logo](/assets/toronto_pan_am_centre_logo.jpg)
+![TPASC Logo](/assets/toronto_pan_am_centre_logo.jpg){:.centered}
 
 ### Archery Head Coach, Archery Instructor
 - TPASC Sentence one
