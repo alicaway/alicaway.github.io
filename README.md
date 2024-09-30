@@ -19,11 +19,13 @@ GPA: 4.7/5.0 - Presidential Honours
 
 ![OPS Logo](/assets/ontario_public_service_leadership_logo.jpg)
 
+## Ontario Public Service (OPS)
+
 <p align="center">
   <img src="/assets/ontario_public_service_leadership_logo.jpg" alt="OPS Logo">
 </p>
 
-## Ontario Public Service (OPS)
+<h2 style="text-align: center;">Ontario Public Service</h2>
 
 ### Systems Grants Officer
 Sep 2024 - Present
