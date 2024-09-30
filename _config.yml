@@ -3,3 +3,8 @@ logo: /assets/Profile_Pic_Zoom_Png.png
 # description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+- link:
+  rel: icon
+  type: image/png
+  href: /assets/Profile_Pic_Zoom_Png.png

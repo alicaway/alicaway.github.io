@@ -19,10 +19,12 @@ GPA: 4.7/5.0 - Presidential Honours
 ![OPS Logo](/assets/ontario_public_service_leadership_logo.jpg)
 
 #### Systems Grants Officer
+Sep 2024 - Present
 - Sample sentence one
 - Sample sentence two
 
 #### Technical IT Assistant
+May 2024 - Aug 2024
 - Sample IT one
 - Sample IT two
 
@@ -32,12 +34,11 @@ Sessional Lecturer
 - Sample lecture one
 - Sample lecture two
 
-![OTU Logo](/assets/uoit_logo.jpg)
-Teaching Assistant
+#### Teaching Assistant
 - Sample lecture one
 - Sample lecture two
 
-![OTU Logo](/assets/uoit_logo.jpg) STEM Program Instructor
+#### STEM Program Instructor
 - Sample lecture one
 - Sample lecture two
 
