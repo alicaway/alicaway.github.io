@@ -17,10 +17,6 @@ GPA: 4.7/5.0 - Presidential Honours
 
 # Work Experience
 
-![OPS Logo](/assets/ontario_public_service_leadership_logo.jpg)
-
-## Ontario Public Service (OPS)
-
 <p align="center">
   <img src="/assets/ontario_public_service_leadership_logo.jpg" alt="OPS Logo">
 </p>
@@ -37,8 +33,11 @@ May 2024 - Aug 2024
 - Sample IT one
 - Sample IT two
 
-![OTU Logo](/assets/uoit_logo.jpg)
-## Ontario Tech University
+<p align="center">
+  <img src="/assets/uoit_logo.jpg" alt="OTU Logo">
+</p>
+
+<h2 style="text-align: center;">Ontario Tech University</h2>
 
 ### Sessional Lecturer
 - Sample lecture one
@@ -60,29 +59,41 @@ May 2024 - Aug 2024
 - Courses tutored one
 - Courses tutoried two
 
-## Oxford Learning Centres Inc.
-![Oxford Logo](/assets/oxford_learning_center_logo.jpg)
+<p align="center">
+  <img src="/assets/oxford_learning_center_logo.jpg" alt="Oxford Logo">
+</p>
+
+<h2 style="text-align: center;">Oxford Learning Centres Inc.</h2>
 
 ### Math Teacher
 - Sample Line 1
 - Sample Line 2
 
-## Durham College Students Association
-![DCSA Logo](/assets/durham_college_students_inc_logo.jpg)
+<p align="center">
+  <img src="/assets/durham_college_students_inc_logo.jpg" alt="OPS Logo">
+</p>
+
+<h2 style="text-align: center;">Durham College Students Association</h2>
 
 ### Events Team Representative
 - Sample sentence one
 - Sample sentence two
 
-## Toronto Pan Am Sports Centre
-![TPASC Logo](/assets/toronto_pan_am_centre_logo.jpg)
+<p align="center">
+  <img src="/assets/toronto_pan_am_centre_logo.jpg" alt="OPS Logo">
+</p>
+
+<h2 style="text-align: center;">TPASC Logo</h2>
 
 ### Archery Head Coach, Archery Instructor
 - TPASC Sentence one
 - TPACS Sentence two
 
-## Camp Green Acres
-![CGA Logo](/assets/campgreenacres_logo.jpg)
+<p align="center">
+  <img src="/assets/campgreenacres_logo.jpg" alt="OPS Logo">
+</p>
+
+<h2 style="text-align: center;">Camp Green Acres</h2>
 
 ### Archery Instructor
 - Archery one
