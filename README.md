@@ -1,20 +1,20 @@
 # Education
-Master of Education, Digital Technologies
-Ontario Tech University
-GPA: 4.09/4.3 - Highest Distinction
+Master of Education, Digital Technologies  
+Ontario Tech University  
+GPA: 4.09/4.3 - Highest Distinction  
 
-Bachelor of Information Technology, Networking and IT Security
-Ontario Tech University
-GPA: 4.02/4.3 - Highest Distinction
+Bachelor of Information Technology, Networking and IT Security  
+Ontario Tech University  
+GPA: 4.02/4.3 - Highest Distinction  
 
-Ontario College Diploma - Computer Systems Technician
-Durham College
-GPA: 4.7/5.0 - Presidential Honours
+Ontario College Diploma - Computer Systems Technician  
+Durham College  
+GPA: 4.7/5.0 - Presidential Honours  
 
 # Work Experience
 
-## Ontario Public Service (OPS)
 ![OPS Logo](/assets/ontario_public_service_leadership_logo.jpg)
+## Ontario Public Service (OPS)
 
 ### Systems Grants Officer
 Sep 2024 - Present
@@ -26,9 +26,10 @@ May 2024 - Aug 2024
 - Sample IT one
 - Sample IT two
 
-## Ontario Tech University
 ![OTU Logo](/assets/uoit_logo.jpg)
-Sessional Lecturer
+## Ontario Tech University
+
+### Sessional Lecturer
 - Sample lecture one
 - Sample lecture two
 
