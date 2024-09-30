@@ -63,34 +63,34 @@ May 2024 - Aug 2024
   <img src="/assets/oxford_learning_center_logo.jpg" alt="Oxford Logo">
 </p>
 
-<h2 style="text-align: center;">Oxford Learning Centres Inc.</h2>
+<h2 style="text-align: center;">Oxford Learning Centres</h2>
 
 ### Math Teacher
 - Sample Line 1
 - Sample Line 2
 
 <p align="center">
-  <img src="/assets/durham_college_students_inc_logo.jpg" alt="OPS Logo">
+  <img src="/assets/durham_college_students_inc_logo.jpg" alt="DCSA Logo">
 </p>
 
-<h2 style="text-align: center;">Durham College Students Association</h2>
+<h2 style="text-align: center;">Durham College Student Association</h2>
 
 ### Events Team Representative
 - Sample sentence one
 - Sample sentence two
 
 <p align="center">
-  <img src="/assets/toronto_pan_am_centre_logo.jpg" alt="OPS Logo">
+  <img src="/assets/toronto_pan_am_centre_logo.jpg" alt="TPASC Logo">
 </p>
 
-<h2 style="text-align: center;">TPASC Logo</h2>
+<h2 style="text-align: center;">Toronto Pan Am Sports Centre</h2>
 
 ### Archery Head Coach, Archery Instructor
 - TPASC Sentence one
 - TPACS Sentence two
 
 <p align="center">
-  <img src="/assets/campgreenacres_logo.jpg" alt="OPS Logo">
+  <img src="/assets/campgreenacres_logo.jpg" alt="CGA Logo">
 </p>
 
 <h2 style="text-align: center;">Camp Green Acres</h2>
