@@ -1,4 +1,4 @@
-<hr>
+<link rel="icon" type="image/png" href="/assets/Profile_Pic_Zoom_Png.png">
 
 # Education
 Master of Education, Digital Technologies  
