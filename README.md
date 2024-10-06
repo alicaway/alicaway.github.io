@@ -40,22 +40,27 @@ May 2024 - Aug 2024
 <h2 style="text-align: center;">Ontario Tech University</h2>
 
 ### Sessional Lecturer
+Jan 2024 - Apr 2024
 - Sample lecture one
 - Sample lecture two
 
 ### Teaching Assistant
+Jan 2022 - Dec 2023
 - Sample lecture one
 - Sample lecture two
 
 ### STEM Program Instructor
+May 2023 - Aug 2023
 - Sample lecture one
 - Sample lecture two
 
 ### Content Development Assistant
+Jan 2022 - Apr 2022
 - Sample sentence one
 - Sample sentence two
 
 ### Peer Tutor
+Sep 2021 - Dec 2021
 - Courses tutored one
 - Courses tutoried two
 
