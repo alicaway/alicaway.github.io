@@ -21,7 +21,7 @@ GPA: 4.7/5.0 - Presidential Honours
   <img src="/assets/ontario_public_service_leadership_logo.jpg" alt="OPS Logo">
 </p>
 
-<b style="text-align: center;">Ontario Public Service</b>
+<p style="text-align: center;"><b>Ontario Public Service</b></p>
 
 <b>Systems Grants Officer</b>
 Sep 2024 - Present
@@ -37,7 +37,7 @@ May 2024 - Aug 2024
   <img src="/assets/uoit_logo.jpg" alt="OTU Logo">
 </p>
 
-<b style="text-align: center;">Ontario Tech University</b>
+<p style="text-align: center;"><b>Ontario Tech University</b></p>
 
 <b>Sessional Lecturer</b>
 Jan 2024 - Apr 2024
@@ -68,7 +68,7 @@ Sep 2021 - Dec 2021
   <img src="/assets/oxford_learning_center_logo.jpg" alt="Oxford Logo">
 </p>
 
-<p style="text-align: center;">Oxford Learning Centres</p>
+<p style="text-align: center;"><b>Oxford Learning Centres</b></p>
 
 <b>Math Teacher</b>
 Jan 2022 - Jan 2023
@@ -78,7 +78,7 @@ Jan 2022 - Jan 2023
   <img src="/assets/durham_college_students_inc_logo.jpg" alt="DCSA Logo">
 </p>
 
-<b style="text-align: center;">Durham College Student Association</b>
+<p style="text-align: center;"><b>Durham College Student Association</b></p>
 
 <b>Events Team Representative</b>
 Aug 2019 - Aug 2020
@@ -88,7 +88,7 @@ Aug 2019 - Aug 2020
   <img src="/assets/toronto_pan_am_centre_logo.jpg" alt="TPASC Logo">
 </p>
 
-<p style="text-align: center;">Toronto Pan Am Sports Centre</p>
+<p style="text-align: center;"><b>Toronto Pan Am Sports Centre</b></p>
 
 <b>Archery Head Coach, Archery Instructor</b>
 May 2017 - Sep 2018
@@ -99,7 +99,7 @@ May 2017 - Sep 2018
   <img src="/assets/campgreenacres_logo.jpg" alt="CGA Logo">
 </p>
 
-<b style="text-align: center;">Camp Green Acres</b>
+<p style="text-align: center;"><b>Camp Green Acres</b></p>
 
 <b>Archery Instructor</b>
 Jul 2017 - Aug 2018 (summer)
