@@ -1,15 +1,15 @@
 <link rel="icon" type="image/png" href="/assets/Profile_Pic_Zoom_Png.png">
 
 # Education
-### Master of Education, Digital Technologies  
+<b>Master of Education, Digital Technologies</b>  
 Ontario Tech University  
 GPA: 4.09/4.3 - Highest Distinction  
 
-### Bachelor of Information Technology, Networking and IT Security  
+<b>Bachelor of Information Technology, Networking and IT Security</b>  
 Ontario Tech University  
 GPA: 4.02/4.3 - Highest Distinction  
 
-### Ontario College Diploma - Computer Systems Technician  
+<b>Ontario College Diploma - Computer Systems Technician</b>  
 Durham College  
 GPA: 4.7/5.0 - Presidential Honours  
 
@@ -21,14 +21,14 @@ GPA: 4.7/5.0 - Presidential Honours
   <img src="/assets/ontario_public_service_leadership_logo.jpg" alt="OPS Logo">
 </p>
 
-<h2 style="text-align: center;">Ontario Public Service</h2>
+<strong style="text-align: center;">Ontario Public Service</strong>
 
-### Systems Grants Officer
+<b>Systems Grants Officer</b>
 Sep 2024 - Present
 - Sample sentence one
 - Sample sentence two
 
-### Technical IT Assistant
+<b>Technical IT Assistant</b>
 May 2024 - Aug 2024
 - Sample IT one
 - Sample IT two
