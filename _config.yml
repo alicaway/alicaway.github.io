@@ -3,3 +3,6 @@ logo: /assets/Profile_Pic_Zoom_Png.png
 description: Aspiring Data Scientist
 # show_downloads: true
 theme: jekyll-theme-leap-day
+
+colors:
+  banner: "E75D2A"
