@@ -179,6 +179,8 @@ their use of technology and design principles in their classrooms
 
 # Certificates
 
+<p></p>
+
 <p>
   <span style="float: left;"><b>Professional Certificate, Data Science - Harvard Online</b></span>
   <span style="float: right;">Sep 2023 - Present</span>
@@ -211,6 +213,8 @@ their use of technology and design principles in their classrooms
 
 # Awards
 
+<p></p>
+
 <p>
   <span style="float: left;"><b>Teaching Assistant of the Year Award</b></span>
   <span style="float: right;">Apr 2022</span>
@@ -242,6 +246,8 @@ their use of technology and design principles in their classrooms
 <hr>
 
 # Volunteer
+
+<p></p>
 
 <p>
   <span style="float: left;"><b>Vice President of Finance</b></span>
