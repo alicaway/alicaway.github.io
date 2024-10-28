@@ -19,16 +19,19 @@ Outside of my career and education, my hobbies include sports. To name a few, th
 
 # Education
 
-<p><b>Master of Education, Digital Technologies</b></p><p align="right">2024</p>\
+<p align="right">2024</p>
+<b>Master of Education, Digital Technologies</b>\
 Ontario Tech University\
 GPA: 4.09/4.3 - Highest Distinction  
 
-<b>Bachelor of Information Technology, Networking and IT Security</b><p align="right">2022</p>\
+<p align="right">2022</p>
+<b>Bachelor of Information Technology, Networking and IT Security</b>\
 Ontario Tech University\
 GPA: 4.02/4.3 - Highest Distinction  
 
+<p align="right">2020</p>
 <b>Ontario College Diploma - Computer Systems Technician</b>\
-Durham College<p align="right">2020</p>\
+Durham College\
 GPA: 4.7/5.0 - Presidential Honours  
 
 <hr>
@@ -42,14 +45,14 @@ GPA: 4.7/5.0 - Presidential Honours
 <p style="text-align: center;"><b>Ontario Public Service</b></p>
 
 <p align="right">Sep 2024 - Present</p>
-<b>Systems Grants Officer</b>\
+<b>Systems Grants Officer</b>
 - Provides technical systems support and customer service in response to a range of systems questions, problems and inquiries from internal and external users of Transfer Payment Ontario
 - Makes system administration changes such as entering financial allocations or changing the structure of a program
 - Develops data management guidelines to ensure information security, accessibility, database integrity and compliance to IT standards
 - Reviews and analyzes reports to identify and resolve errors
 
 <p align="right">May 2024 - Aug 2024</p>
-<b>Technical IT Assistant</b>\
+<b>Technical IT Assistant</b>
 - Provided technical support to clients by email, phone, in person, or using remote access
 - Assisted with investigating, analyzing, and resolving all incidents and requests for change, determining root causes, and developing solutions that consider systems administration, technical, operational, and service problems
 - Planned, organized, coordinated, and managed daily assigned work
