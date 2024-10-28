@@ -24,21 +24,21 @@ Outside of my career and education, my hobbies include sports. To name a few, th
 <p>
   <span style="float: left;"><b>Master of Education, Digital Technologies</b></span>
   <span style="float: right;">2024</span>
-</p>  
+</p>\
 - Ontario Tech University
 - GPA: 4.09/4.3 - Highest Distinction  
 
 <p>
   <span style="float: left;"><b>Bachelor of Information Technology, Networking and IT Security</b></span>
   <span style="float: right;">2022</span>
-</p>  
+</p>\
 - Ontario Tech University
 - GPA: 4.02/4.3 - Highest Distinction  
 
 <p>
   <span style="float: left;"><b>Ontario College Diploma - Computer Systems Technician</b></span>
   <span style="float: right;">2020</span>
-</p>  
+</p>\
 - Durham College
 - GPA: 4.7/5.0 - Presidential Honours  
 
@@ -55,7 +55,7 @@ Outside of my career and education, my hobbies include sports. To name a few, th
 <p>
   <span style="float: left;"><b>Systems Grants Officer</b></span>
   <span style="float: right;">Sep 2024 - Present</span>
-</p>  
+</p>\
 - Provides technical systems support and customer service in response to a range of systems questions, problems and inquiries from internal and external users of Transfer Payment Ontario
 - Makes system administration changes such as entering financial allocations or changing the structure of a program
 - Develops data management guidelines to ensure information security, accessibility, database integrity and compliance to IT standards
@@ -64,7 +64,7 @@ Outside of my career and education, my hobbies include sports. To name a few, th
 <p>
   <span style="float: left;"><b>Technical IT Assistant</b></span>
   <span style="float: right;">May 2024 - Aug 2024</span>
-</p>  
+</p>\
 - Provided technical support to clients by email, phone, in person, or using remote access
 - Assisted with investigating, analyzing, and resolving all incidents and requests for change, determining root causes, and developing solutions that consider systems administration, technical, operational, and service problems
 - Planned, organized, coordinated, and managed daily assigned work
