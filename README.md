@@ -23,14 +23,12 @@ Outside of my career and education, my hobbies include sports. To name a few, th
 Ontario Tech University\
 GPA: 4.09/4.3 - Highest Distinction  
 
-<p align="right">2022</p>
-<b>Bachelor of Information Technology, Networking and IT Security</b>\
+<b>Bachelor of Information Technology, Networking and IT Security</b><p align="right">2022</p>\
 Ontario Tech University\
 GPA: 4.02/4.3 - Highest Distinction  
 
-<p align="right">2020</p>
 <b>Ontario College Diploma - Computer Systems Technician</b>\
-Durham College\
+Durham College<p align="right">2020</p>\
 GPA: 4.7/5.0 - Presidential Honours  
 
 <hr>
