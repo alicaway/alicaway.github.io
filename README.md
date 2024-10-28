@@ -19,16 +19,19 @@ Outside of my career and education, my hobbies include sports. To name a few, th
 
 # Education
 
-<b>Master of Education, Digital Technologies</b><p align="right">2024</p>
-Ontario Tech University  
+<p align="right">2024</p>\
+<b>Master of Education, Digital Technologies</b>\
+Ontario Tech University\
 GPA: 4.09/4.3 - Highest Distinction  
 
-<b>Bachelor of Information Technology, Networking and IT Security</b><p align="right">2022</p>
-Ontario Tech University  
+<p align="right">2022</p>\
+<b>Bachelor of Information Technology, Networking and IT Security</b>\
+Ontario Tech University\
 GPA: 4.02/4.3 - Highest Distinction  
 
-<b>Ontario College Diploma - Computer Systems Technician</b><p align="right">2020</p>
-Durham College  
+<p align="right">2020</p>\
+<b>Ontario College Diploma - Computer Systems Technician</b>\
+Durham College\
 GPA: 4.7/5.0 - Presidential Honours  
 
 <hr>
@@ -41,14 +44,15 @@ GPA: 4.7/5.0 - Presidential Honours
 
 <p style="text-align: center;"><b>Ontario Public Service</b></p>
 
-<b>Systems Grants Officer</b><p align="right">Sep 2024 - Present</p>
+<p align="right">Sep 2024 - Present</p>
+<b>Systems Grants Officer</b>\
 - Provides technical systems support and customer service in response to a range of systems questions, problems and inquiries from internal and external users of Transfer Payment Ontario
 - Makes system administration changes such as entering financial allocations or changing the structure of a program
 - Develops data management guidelines to ensure information security, accessibility, database integrity and compliance to IT standards
 - Reviews and analyzes reports to identify and resolve errors
 
-<b>Technical IT Assistant</b>
-May 2024 - Aug 2024
+<p align="right">May 2024 - Aug 2024</p>
+<b>Technical IT Assistant</b>\
 - Provided technical support to clients by email, phone, in person, or using remote access
 - Assisted with investigating, analyzing, and resolving all incidents and requests for change, determining root causes, and developing solutions that consider systems administration, technical, operational, and service problems
 - Planned, organized, coordinated, and managed daily assigned work
@@ -112,7 +116,7 @@ Aug 2019 - Aug 2020
 
 <p style="text-align: center;"><b>Toronto Pan Am Sports Centre</b></p>
 
-<b>Archery Head Coach, Archery Instructor</b>
+<b>Archery Head Coach, Archery Instructor</b>\
 May 2017 - Sep 2018
 - Instructed archery to 150+ university students every semester
 - Coached players to Inter-University Archery Tournaments
@@ -123,7 +127,7 @@ May 2017 - Sep 2018
 
 <p style="text-align: center;"><b>Camp Green Acres</b></p>
 
-<b>Archery Instructor</b>
+<b>Archery Instructor</b>\
 Jul 2017 - Aug 2018 (summer)
 - Facilitated archery activities with children ages 8 to 15
 
@@ -131,51 +135,51 @@ Jul 2017 - Aug 2018 (summer)
 
 # Certificates
 
-<b>Professional Certificate, Data Science - Harvard Online</b>
+<b>Professional Certificate, Data Science - Harvard Online</b>\
 Skills: Artificial Intelligence, Machine Learning, Visualization, Data Mining, R, Probability, Statistics
 
-<b>Certificate in University Teaching - Ontario Tech University</b>
+<b>Certificate in University Teaching - Ontario Tech University</b>\
 Design and facilitate learning; Develop learning outcomes, assessments, and activities; Integrate technology
 
-<b>First Aid & CPR/AED Level C - Canadian Red Cross</b>
+<b>First Aid & CPR/AED Level C - Canadian Red Cross</b>\
 Demonstrating proficiency in life-saving techniques and emergency response skills
 
-<b>Teaching English Certificates - TESOL, TESL, TEFL</b>
+<b>Teaching English Certificates - TESOL, TESL, TEFL</b>\
 A comprehensive 120-hour certification developing skills in English grammar, communication, and teaching
 
 <hr>
 
 # Awards
 
-<b>Teaching Assistant of the Year Award</b>
+<b>Teaching Assistant of the Year Award</b>\
 Business and IT Society (2022)
 
-<b>Volunteer of the Year Award</b>
+<b>Volunteer of the Year Award</b>\
 Business and IT Society (2022)
 
-<b>Leaders of the Future Award</b>
+<b>Leaders of the Future Award</b>\
 Durham College Alumni Association (2020)
 
-<b>Student Leader Award</b>
+<b>Student Leader Award</b>\
 Institute of Student Leadership (2020)
 
 <hr>
 
 # Volunteer
 
-<b>Vice President of Finance</b>
+<b>Vice President of Finance</b>\
 Graduate Student Society (GSS)
 
-<b>Board of Director - Graduate Studies</b>
+<b>Board of Director - Graduate Studies</b>\
 Ontario Tech Student Union (OTSU)
 
-<b>Board of Director - Student Representative</b>
+<b>Board of Director - Student Representative</b>\
 Durham College Alumni Association (DCAA)
 
-<b>Volunteer</b>
+<b>Volunteer</b>\
 Ontario Tech Business and IT Society
 
-<b>Ambassador</b>
+<b>Ambassador</b>\
 Ontario Tech University Student Life
 
 <hr>
