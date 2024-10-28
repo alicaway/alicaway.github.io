@@ -1,8 +1,10 @@
 <link rel="icon" type="image/png" href="/assets/Profile_Pic_Zoom_Png.png">
 
 <p align="center">
-  <img src="/assets/Profile_Pic_Zoom_Png.png" alt="JC Profile Pix">
+  <img src="/assets/Profile_Pic_Zoom_Png.png" alt="JC Profile Pix" width="50%" height="auto">
 </p>
+
+<hr>
 
 # Summary
 Hello! My name is JC. I am an aspiring Data Scientist and Education Technology enthusiast. I am deeply passionate about technology, mathematics, and education.
@@ -13,7 +15,10 @@ I have completed my Master of Education in Digital Technologies after graduating
 
 Outside of my career and education, my hobbies include sports. To name a few, there would be running, archery, and golf. I always try to put myself in new learning environments to grow into a better person tomorrow.
 
+<hr>
+
 # Education
+
 <b>Master of Education, Digital Technologies</b>  
 Ontario Tech University  
 GPA: 4.09/4.3 - Highest Distinction  
@@ -37,7 +42,7 @@ GPA: 4.7/5.0 - Presidential Honours
 <p style="text-align: center;"><b>Ontario Public Service</b></p>
 
 <b>Systems Grants Officer</b>
-Sep 2024 - Present
+<p align="right">Sep 2024 - Present</p>
 - Provides technical systems support and customer service in response to a range of systems questions, problems and inquiries from internal and external users of Transfer Payment Ontario
 - Makes system administration changes such as entering financial allocations or changing the structure of a program
 - Develops data management guidelines to ensure information security, accessibility, database integrity and compliance to IT standards
@@ -123,6 +128,8 @@ May 2017 - Sep 2018
 Jul 2017 - Aug 2018 (summer)
 - Facilitated archery activities with children ages 8 to 15
 
+<hr>
+
 # Certificates
 
 <b>Professional Certificate, Data Science - Harvard Online</b>
@@ -136,6 +143,8 @@ Demonstrating proficiency in life-saving techniques and emergency response skill
 
 <b>Teaching English Certificates - TESOL, TESL, TEFL</b>
 A comprehensive 120-hour certification developing skills in English grammar, communication, and teaching
+
+<hr>
 
 # Awards
 
@@ -151,7 +160,10 @@ Durham College Alumni Association (2020)
 <b>Student Leader Award</b>
 Institute of Student Leadership (2020)
 
+<hr>
+
 # Volunteer
+
 <b>Vice President of Finance</b>
 Graduate Student Society (GSS)
 
@@ -166,6 +178,8 @@ Ontario Tech Business and IT Society
 
 <b>Ambassador</b>
 Ontario Tech University Student Life
+
+<hr>
 
 # Projects
 <b>Project 1</b>
