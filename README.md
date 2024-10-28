@@ -1,5 +1,18 @@
 <link rel="icon" type="image/png" href="/assets/Profile_Pic_Zoom_Png.png">
 
+<p align="center">
+  <img src="/assets/Profile_Pic_Zoom_Png.png" alt="JC Profile Pix">
+</p>
+
+# Summary
+Hello! My name is JC. I am an aspiring Data Scientist and Education Technology enthusiast. I am deeply passionate about technology, mathematics, and education.
+
+My current role is a Systems Grants Office for the Government of Ontario (Ontario Public Service). Prior to entering the government, my experience included over 5 years of lecturing, teaching, instructing, tutoring, and coaching roles related to university-level mathematics, business, and IT.
+
+I have completed my Master of Education in Digital Technologies after graduating with my Bachelor of Information Technology in Networking and IT Security. In addition, I am currently progressing through Harvard Online's Professional Certificate program in Data Science.
+
+Outside of my career and education, my hobbies include sports. To name a few, there would be running, archery, and golf. I always try to put myself in new learning environments to grow into a better person tomorrow.
+
 # Education
 <b>Master of Education, Digital Technologies</b>  
 Ontario Tech University  
@@ -25,13 +38,16 @@ GPA: 4.7/5.0 - Presidential Honours
 
 <b>Systems Grants Officer</b>
 Sep 2024 - Present
-- Sample sentence one
-- Sample sentence two
+- Provides technical systems support and customer service in response to a range of systems questions, problems and inquiries from internal and external users of Transfer Payment Ontario
+- Makes system administration changes such as entering financial allocations or changing the structure of a program
+- Develops data management guidelines to ensure information security, accessibility, database integrity and compliance to IT standards
+- Reviews and analyzes reports to identify and resolve errors
 
 <b>Technical IT Assistant</b>
 May 2024 - Aug 2024
-- Sample IT one
-- Sample IT two
+- Provided technical support to clients by email, phone, in person, or using remote access
+- Assisted with investigating, analyzing, and resolving all incidents and requests for change, determining root causes, and developing solutions that consider systems administration, technical, operational, and service problems
+- Planned, organized, coordinated, and managed daily assigned work
 
 <p align="center">
   <img src="/assets/uoit_logo.jpg" alt="OTU Logo">
@@ -41,14 +57,16 @@ May 2024 - Aug 2024
 
 <b>Sessional Lecturer</b>
 Jan 2024 - Apr 2024
-- Lectured Mathematical Analysis for Business (BUSI 1916U)
+- Lectured Mathematical Analysis for Business using a technology-enhanced learning approach that includes a variety of inclusive teaching and learning strategies and assessments to over 30 students
+- Connected math learning to real-world business scenarios such as CPI, GDP, stocks, and inflation rates
+- Prepared, delivered and graded all course material and assignments; available for consultation with students
 
 <b>Teaching Assistant</b>
 Jan 2022 - Dec 2023
-- Intro to Calculus (INFR 1016U) x2
-- Advanced Business Intelligence (BUSI 4504U)
-- Fundamentals of Business Math (BUSI 1915U)
-- IT Forensics (INFR 4690U)
+- Courses: Advanced Business Intelligence, Fundamentals of Business Math, Intro to Calculus (x2), and IT Forensics
+- Facilitated multiple tutorials and labs from various courses, which led to positive student feedback and awards
+- Graded quizzes, tests, projects, assignments, and final exams to provide quality and timely student evaluations
+- Taught over 200 students per semester skills in business, calculus, Python, Excel, IT, linux, statistics, etc.
 
 <b>STEM Program Instructor</b>
 May 2023 - Aug 2023
@@ -111,14 +129,45 @@ Jul 2017 - Aug 2018 (summer)
 Skills: Artificial Intelligence, Machine Learning, Visualization, Data Mining, R, Probability, Statistics
 
 <b>Certificate in University Teaching - Ontario Tech University</b>
-[Design and facilitate learning; Develop learning outcomes, assessments, and activities; Integrate technology]()
-STUB - Upload pic and add link
+Design and facilitate learning; Develop learning outcomes, assessments, and activities; Integrate technology
 
 <b>First Aid & CPR/AED Level C - Canadian Red Cross</b>
-STUB - Add description
+Demonstrating proficiency in life-saving techniques and emergency response skills
 
 <b>Teaching English Certificates - TESOL, TESL, TEFL</b>
 A comprehensive 120-hour certification developing skills in English grammar, communication, and teaching
 
+# Awards
+
+<b>Teaching Assistant of the Year Award</b>
+Business and IT Society (2022)
+
+<b>Volunteer of the Year Award</b>
+Business and IT Society (2022)
+
+<b>Leaders of the Future Award</b>
+Durham College Alumni Association (2020)
+
+<b>Student Leader Award</b>
+Institute of Student Leadership (2020)
+
+# Volunteer
+<b>Vice President of Finance</b>
+Graduate Student Society (GSS)
+
+<b>Board of Director - Graduate Studies</b>
+Ontario Tech Student Union (OTSU)
+
+<b>Board of Director - Student Representative</b>
+Durham College Alumni Association (DCAA)
+
+<b>Volunteer</b>
+Ontario Tech Business and IT Society
+
+<b>Ambassador</b>
+Ontario Tech University Student Life
+
 # Projects
-Sample Project 1
+<b>Project 1</b>
+- Bullet point 1
+- Bullet point 2
