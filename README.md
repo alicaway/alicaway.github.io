@@ -19,15 +19,15 @@ Outside of my career and education, my hobbies include sports. To name a few, th
 
 # Education
 
-<b>Master of Education, Digital Technologies</b>  
+<b>Master of Education, Digital Technologies</b><p align="right">2024</p>
 Ontario Tech University  
 GPA: 4.09/4.3 - Highest Distinction  
 
-<b>Bachelor of Information Technology, Networking and IT Security</b>  
+<b>Bachelor of Information Technology, Networking and IT Security</b><p align="right">2022</p>
 Ontario Tech University  
 GPA: 4.02/4.3 - Highest Distinction  
 
-<b>Ontario College Diploma - Computer Systems Technician</b>  
+<b>Ontario College Diploma - Computer Systems Technician</b><p align="right">2020</p>
 Durham College  
 GPA: 4.7/5.0 - Presidential Honours  
 
@@ -41,8 +41,7 @@ GPA: 4.7/5.0 - Presidential Honours
 
 <p style="text-align: center;"><b>Ontario Public Service</b></p>
 
-<b>Systems Grants Officer</b>
-<p align="right">Sep 2024 - Present</p>
+<b>Systems Grants Officer</b><p align="right">Sep 2024 - Present</p>
 - Provides technical systems support and customer service in response to a range of systems questions, problems and inquiries from internal and external users of Transfer Payment Ontario
 - Makes system administration changes such as entering financial allocations or changing the structure of a program
 - Develops data management guidelines to ensure information security, accessibility, database integrity and compliance to IT standards
