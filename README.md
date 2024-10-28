@@ -27,6 +27,13 @@ Ontario Tech University\
 GPA: 4.09/4.3 - Highest Distinction  
 
 <p>
+  <span style="float: left;"><b>Master of Education, Digital Technologies</b></span>
+  <span style="float: right;">2024</span>
+</p>\
+Ontario Tech University\
+GPA: 4.09/4.3 - Highest Distinction  
+
+<p>
   <span style="float: left;"><b>Bachelor of Information Technology, Networking and IT Security</b></span>
   <span style="float: right;">2022</span>
 </p>\
