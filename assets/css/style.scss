@@ -3,6 +3,21 @@
 
 @import "{{ site.theme }}";
 
+// Colours taken from Ontario Tech Brand Guide
+// https://brand.ontariotechu.ca/resources/colours-design-graphics-and-fonts/colours.php
+
 #banner {
     background-color: #E75D2A;
-  }
+}
+
+#header {
+    background-color: #003C71;
+}
+
+#a.button.fork {
+    background-color: #E75D2A;
+}
+
+#div.wrapper {
+    background-color: #0077CA;
+}
