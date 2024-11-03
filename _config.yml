@@ -1,8 +1,6 @@
 title: Juan Carlo (JC) Alicaway
-logo: /assets/Profile_Pic_Zoom_Png.png
 description: Aspiring Data Scientist
-# show_downloads: true
+show_downloads: false
 theme: jekyll-theme-leap-day
-
-colors:
-  banner: "E75D2A"
+# logo: /assets/Profile_Pic_Zoom_Png.png
+# google_analytics: [Your Google Analytics tracking ID]
