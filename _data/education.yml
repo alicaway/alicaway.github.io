@@ -1,0 +1,23 @@
+- title: MSc in Computer Science (Machine Learning)
+  layout: left
+  sub_title: MSc Computer Science - Machine Learning
+  caption: 2021 - 2023
+  link: https://university.edu
+  quote: >
+    Graduate program focused on machine learning, deep learning, and data mining
+  description: |
+    Relevant coursework: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Statistics, Data Mining.
+    Thesis: "Efficient Object Detection for Medical Imaging" using YOLOv5 and transformer-based architectures.
+    Graduated with honors, GPA 3.9/4.0.
+
+- title: BSc in Computer Science
+  layout: left
+  sub_title: BSc Computer Science
+  caption: 2017 - 2021
+  link: https://university.edu
+  quote: >
+    Undergraduate degree with focus on algorithms, data structures, and software engineering
+  description: |
+    Relevant coursework: Data Structures, Algorithms, Database Systems, Operating Systems, Software Engineering, Linear Algebra, Probability Theory.
+    Capstone project: Real-time traffic classification system using computer vision and edge computing.
+    Graduated cum laude, GPA 3.8/4.0.

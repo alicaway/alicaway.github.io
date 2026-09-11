@@ -1,0 +1,30 @@
+- title: ML Pipeline Optimizer
+  layout: top-middle
+  link: https://github.com/alicaway/ml-pipeline-optimizer
+  additional_links:
+    - title: GitHub
+      icon: fab fa-github
+      url: https://github.com/alicaway/ml-pipeline-optimizer
+  quote: >
+    Optimized ML training pipelines for 3x faster model iteration using Python, Docker, and Airflow.
+  description: |
+    Built a data pipeline with Airflow DAG orchestration, containerized with Docker, and deployed on AWS.
+    Implemented experiment tracking with Weights & Biases for model performance monitoring.
+
+- title: NLP Sentiment Analysis Platform
+  link: https://github.com/alicaway/nlp-sentiment
+  quote: >
+    Real-time sentiment analysis API for customer feedback using transformer models.
+  description: |
+    Fine-tuned BERT model for multi-class sentiment classification.
+    Deployed as FastAPI microservice with Redis caching.
+    Achieved 94.2% accuracy on test dataset.
+
+- title: Computer Vision Object Detection
+  link: https://github.com/alicaway/object-detection
+  quote: >
+    Yolo v5-based object detection system for autonomous systems.
+  description: |
+    Trained on custom dataset of 10,000+ images.
+    Implemented data augmentation pipeline using Albumentations.
+    Converted to ONNX format for edge deployment.

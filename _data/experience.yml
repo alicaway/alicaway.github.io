@@ -1,0 +1,25 @@
+- title: AI/ML Engineering Intern
+  layout: left
+  sub_title: AI/ML Engineering Intern
+  caption: June 2023 - Present
+  link: https://company.com
+  quote: >
+    Tech startup building AI-powered developer tools
+  description: |
+    Developed and deployed production ML models for code completion features using PyTorch and Hugging Face Transformers.
+    Built RESTful APIs with FastAPI serving model predictions at 1000+ req/s.
+    Collaborated with data engineering team on data pipeline optimization using Apache Airflow.
+    Implemented MLflow for experiment tracking and model versioning.
+
+- title: Research Assistant - Computer Vision Lab
+  layout: left
+  sub_title: Research Assistant
+  caption: September 2021 - May 2023
+  link: https://university.edu/cv-lab
+  quote: >
+    Academic lab focusing on medical imaging and autonomous systems
+  description: |
+    Published paper on "Efficient Object Detection for Medical Imaging" at CVPR 2023 workshop.
+    Designed and trained segmentation models (U-Net, DeepLabV3+) for tumor detection in MRI scans.
+    Developed reproducible ML pipelines with DVC and MLflow.
+    Mentored 3 undergraduate students on research projects.
