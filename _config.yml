@@ -1,6 +1,6 @@
 # Site
 repository: alicaway/alicaway.github.com
-favicon: images/bitsoc_photoshoot_minipfp_2.ico
+favicon: images/headshot_pfp.ico
 
 # Content configuration version
 version: 2
@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Juan Carlo (JC) Alicaway
 title: Aspiring AI/ML Engineer
-email: brett.h@email.co.uk
+email: juancarlo@alicaway.net
 website: https://alicaway.github.io/
 
 # Dark Mode (true/false/never)
@@ -16,13 +16,13 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
+linkedin_username: alicaway
 github_username:  alicaway
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: alicaway
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -31,9 +31,12 @@ linkedin_username: alicaway
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: Hugging Face
+  icon: fab fa-hugging-face
+  url: https://huggingface.co/alicaway
+- title: Kaggle
+  icon: fab fa-kaggle
+  url: https://www.kaggle.com/jcalicaway
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,11 +49,13 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/Profile_Pic_Professional_png.png
+about_profile_image: images/headshot.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is JC and I am pursuing my Master of Engineering (MEng) in Artificial Intelligence (AI). \
+  My experience includes Senior IT Business Analyst for the Ontario Provincial Government and Lecturer of Calculus at Ontario Tech University. \
+  I am open to roles in AI Engineering, Machine Learning, or Data Science/Analytics.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>Machine Learning</mark>, and <mark>Deep Learning</mark>
 
 # Footer
 footer_show_references: true
