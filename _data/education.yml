@@ -1,29 +1,20 @@
-- title: Master of Engineering in Artificial Intelligence
-  layout: center
-  sub_title: MEng AI
-  caption: 2026 - Present
+- title: Master of Engineering (MEng) - Expected Aug. 2027
+  layout: top
+  sub_title: Artificial Intelligence
+  caption: Toronto Metropolitan University
   link: https://www.ee.torontomu.ca/mengai.html
+  link_text: View MEng Program Outline
 
-- title: MSc in Computer Science (Machine Learning)
-  layout: left
-  sub_title: MSc Computer Science - Machine Learning
-  caption: 2021 - 2023
-  link: https://university.edu
-  quote: >
-    Graduate program focused on machine learning, deep learning, and data mining
-  description: |
-    Relevant coursework: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Statistics, Data Mining.
-    Thesis: "Efficient Object Detection for Medical Imaging" using YOLOv5 and transformer-based architectures.
-    Graduated with honors, GPA 3.9/4.0.
+- title: Master of Education (MEd)
+  layout: top
+  sub_title: Digital Technologies
+  caption: Ontario Tech University
+  link: https://learner.mycreds.ca/sharelink/710d04f4-83d8-4d28-a2a3-229e14e5075f/53ffc885-a8e3-4bac-aa31-97fdc7b2721d
+  link_text: View MEd Credential
 
-- title: BSc in Computer Science
-  layout: left
-  sub_title: BSc Computer Science
-  caption: 2017 - 2021
-  link: https://university.edu
-  quote: >
-    Undergraduate degree with focus on algorithms, data structures, and software engineering
-  description: |
-    Relevant coursework: Data Structures, Algorithms, Database Systems, Operating Systems, Software Engineering, Linear Algebra, Probability Theory.
-    Capstone project: Real-time traffic classification system using computer vision and edge computing.
-    Graduated cum laude, GPA 3.8/4.0.
+- title: Honours Bachelor of Information Technology (BIT) with Highest Distinction
+  layout: top
+  sub_title: Networking and IT Security
+  caption: Ontario Tech University
+  link: https://www.parchment.com/u/award/2cf6d53bf9ad488e37619cfbb4922ebc
+  link_text: View BIT Credential

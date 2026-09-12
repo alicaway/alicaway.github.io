@@ -1,25 +1,47 @@
-- title: AI/ML Engineering Intern
+- title: Senior IT Business Analyst and Implementation Lead
   layout: left
-  sub_title: AI/ML Engineering Intern
-  caption: June 2023 - Present
-  link: https://company.com
+  sub_title: Toronto, ON
+  caption: Nov 2025 - Present
+  link: https://www.ontario.ca/page/about-ontario-public-service
+  link_text: Ontario Public Service
   quote: >
-    Tech startup building AI-powered developer tools
+    Ministry of Public and Business Service Delivery and Procurement (MPBSDP)
   description: |
-    Developed and deployed production ML models for code completion features using PyTorch and Hugging Face Transformers.
-    Built RESTful APIs with FastAPI serving model predictions at 1000+ req/s.
-    Collaborated with data engineering team on data pipeline optimization using Apache Airflow.
-    Implemented MLflow for experiment tracking and model versioning.
+    - Lead comprehensive business analysis activities to assess client needs, define technical requirements, and support solution development across all project phases
+    - Develop business cases, feasibility studies, and cost-benefit analyses to support strategic IT initiatives
+    - Provide expert advice on business analysis methodologies, tools, and best practices, while mentoring colleagues and contributing to organizational capability building
+    - Build and maintain strong stakeholder relationships to ensure alignment between business needs and I&IT solutions throughout the project lifecycle
+    - Support cross-functional projects, including procurement processes, vendor evaluations, and the development of service level agreements
+    - Monitor project progress, resolve issues, and provide leadership in planning, testing, and implementing business systems and infrastructure solutions
 
-- title: Research Assistant - Computer Vision Lab
+- title: Systems Grants Officer
   layout: left
-  sub_title: Research Assistant
-  caption: September 2021 - May 2023
-  link: https://university.edu/cv-lab
+  sub_title: Toronto, ON
+  caption: May 2024 - Oct 2025
+  link: https://www.ontario.ca/page/about-ontario-public-service
+  link_text: Ontario Public Service
   quote: >
-    Academic lab focusing on medical imaging and autonomous systems
+    Ministry of Public and Business Service Delivery and Procurement (MPBSDP)
   description: |
-    Published paper on "Efficient Object Detection for Medical Imaging" at CVPR 2023 workshop.
-    Designed and trained segmentation models (U-Net, DeepLabV3+) for tumor detection in MRI scans.
-    Developed reproducible ML pipelines with DVC and MLflow.
-    Mentored 3 undergraduate students on research projects.
+    - Provided technical systems support and customer service in response to a range of systems questions, problems and inquiries from internal and external users of Transfer Payment Ontario
+    - Acted as the Transfer Payment Ontario IT lead contact on all systems problem resolutions
+    - Maintained ongoing liaison with team members to resolve issues
+    - Determined appropriate action to resolve issues with the Transfer Payment Ontario software and computer equipment
+    - Developed data management guidelines to ensure information security, accessibility, database integrity and compliance to standards
+    - Made system administration changes such as entering financial allocations or changing the structure of a program
+
+- title: University Lecturer and Lab/Tutorial Instructor
+  layout: left
+  sub_title: Oshawa, ON
+  caption: Jan 2022 - Apr 2024
+  link: https://ontariotechu.ca/
+  link_text: Ontario Tech University
+  quote: >
+    Faculty of Business and Information Technology (FBIT)
+  description: |
+    - Designed and delivered undergraduate lectures, tutorials, and labs in assigned courses
+    - Courses include: Mathematical Analysis for Business (BUSI 1916U), Intro to Calculus (INFR 1016U), Advanced Business Intelligence (BUSI 4504U), Fundamentals of Business Math (BUSI 1915U), IT Forensics (INFR 4690U)
+    - Guided students in experimental design, data analysis, interpretation of results, and technical report writing
+    - Assisted in the development of course textbook for Fundamentals of Business Math
+    - Prepared, administered, and graded assignments, projects, quizzes, tests, midterms, and final examinations
+    - Planned and delivered hands-on laboratory sessions aligned with course objectives and learning outcomes

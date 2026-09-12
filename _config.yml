@@ -51,12 +51,21 @@ additional_links:
 # about_title: About Me
 about_profile_image: /images/headshot.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is JC and I am pursuing my Master of Engineering (MEng) in Artificial Intelligence (AI) at Toronto Metropolitan University. 
-  My experience includes Senior IT Business Analyst for the Ontario Provincial Government and Lecturer of Calculus at Ontario Tech University. 
-  I am open to roles in AI Engineering, Machine Learning, or Data Science/Analytics.
+  I’m JC, a Master of Engineering in Artificial Intelligence student at Toronto Metropolitan University.
 
-  I am most skilled in: <mark>Python</mark>, <mark>Machine Learning</mark>, and <mark>Deep Learning</mark>
+  My professional experience includes working as a Senior IT Business Analyst for the Government of Ontario and as a Lecturer of Business Calculus at Ontario Tech University. I’m now focused on building my career in AI Engineering, Machine Learning, and Data Science/Analytics.
 
+  **Core skills:** <mark>Python</mark> · <mark>Machine Learning</mark> · <mark>Deep Learning</mark>
+
+  <hr>
+
+  **Explore my AI/ML work and learning progress:**
+
+  <a href="https://roadmap.sh/u/69e04a8935198b31d6fc9964?roadmapId=machine-learning" target="_blank" rel="noopener noreferrer">roadmap.sh — Machine Learning</a>
+
+  <a href="https://github.com/alicaway" target="_blank" rel="noopener noreferrer">GitHub Projects</a>
+
+  
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
