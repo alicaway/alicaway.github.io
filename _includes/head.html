@@ -1,0 +1,36 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ site.name }} | {{ site.title }}</title>
+  {%- seo title=false -%}
+
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | default: '/assets/favicon.ico' | relative_url }}">
+
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  {%- if jekyll.environment == 'production' and site.gtm -%}
+    {%- include gtm_head.html -%}
+  {%- endif -%}
+  {%- if jekyll.environment == 'production' and site.gtag -%}
+    {%- include gtag.html -%}
+  {%- endif -%}
+
+  <!--
+    Override the Font Awesome version that ships with the theme
+    (v5.11.2) with the latest release so that newer brand icons
+    such as `fab fa-hugging-face` and `fab fa-kaggle` are available.
+    This stylesheet is loaded AFTER assets/main.css, so its rules
+    take precedence for shared class names.
+  -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css"
+    integrity="sha512-QeR2VH+lsBE5LSAe1Q5EnTBbe7XTBubt8dG93Y7gidSgdMCr8nVqKcfKAMyN96SV8KDbZVTDXChatu5G2KQGzg=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+</head>
