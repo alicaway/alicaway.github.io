@@ -1,30 +1,35 @@
-- title: ML Pipeline Optimizer
-  layout: top-middle
-  link: https://github.com/alicaway/ml-pipeline-optimizer
-  additional_links:
-    - title: GitHub
-      icon: fab fa-github
-      url: https://github.com/alicaway/ml-pipeline-optimizer
-  quote: >
-    Optimized ML training pipelines for 3x faster model iteration using Python, Docker, and Airflow.
-  description: |
-    Built a data pipeline with Airflow DAG orchestration, containerized with Docker, and deployed on AWS.
-    Implemented experiment tracking with Weights & Biases for model performance monitoring.
+# - title: ML Pipeline Optimizer
+#   layout: top-middle
+#   link: https://github.com/alicaway/ml-pipeline-optimizer
+#   additional_links:
+#     - title: GitHub
+#       icon: fab fa-github
+#       url: https://github.com/alicaway/ml-pipeline-optimizer
+#   quote: >
+#     Optimized ML training pipelines for 3x faster model iteration using Python, Docker, and Airflow.
+#   description: |
+#     Built a data pipeline with Airflow DAG orchestration, containerized with Docker, and deployed on AWS.
+#     Implemented experiment tracking with Weights & Biases for model performance monitoring.
 
-- title: NLP Sentiment Analysis Platform
-  link: https://github.com/alicaway/nlp-sentiment
+- title: OpenRouter Free Model Monitor
+  link: https://github.com/alicaway/OpenRouter-Free-Model-Monitor
   quote: >
-    Real-time sentiment analysis API for customer feedback using transformer models.
+    Automated Free-Model Tracking for OpenRouter & Webhook Alerting
   description: |
-    Fine-tuned BERT model for multi-class sentiment classification.
-    Deployed as FastAPI microservice with Redis caching.
-    Achieved 94.2% accuracy on test dataset.
+    An automated monitoring tool that tracks OpenRouter’s free AI models and detects when models are added, removed, or stop being available for free. The system can send Discord webhook alerts when a model you’re using is no longer free, helping prevent unexpected disruptions and keeping AI workflows cost-conscious.
 
-- title: Computer Vision Object Detection
-  link: https://github.com/alicaway/object-detection
+    Built to run on a scheduled basis, the project combines automation, API monitoring, and real-time notifications to make managing free AI models more reliable.
+
+- title: What In The World Is Happening Today
+  link: https://github.com/alicaway/What-In-The-World-Is-Happening-Today
   quote: >
-    Yolo v5-based object detection system for autonomous systems.
+    LLM-Powered Global News Aggregation & Summarization
   description: |
-    Trained on custom dataset of 10,000+ images.
-    Implemented data augmentation pipeline using Albumentations.
-    Converted to ONNX format for edge deployment.
+    An automated news intelligence pipeline that aggregates content from 50+ news sources and uses LLMs to identify and summarize the 10 most important global stories. The system transforms large volumes of unstructured news into concise, actionable summaries and delivers them directly to Discord via webhooks, using OpenRouter for model inference.
+
+- title: Implementations of Core Machine Learning Algorithms
+  link: https://github.com/alicaway/roadmap_sh
+  quote: >
+    End-to-End Machine Learning Algorithm Implementations
+  description: |
+    A hands-on machine learning portfolio covering core paradigms including supervised learning, unsupervised learning, deep learning, and reinforcement learning. The repository implements and explores techniques across classification, regression, clustering, neural networks, and reinforcement learning, providing practical implementations of fundamental ML concepts.
