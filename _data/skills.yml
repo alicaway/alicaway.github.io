@@ -1,0 +1,27 @@
+- title: Python
+  layout: left
+  sub_title: Advanced
+  description: |
+    Extensive experience with Python for data analysis, machine learning, and automation.
+    Proficient with libraries like NumPy, pandas, scikit-learn, TensorFlow, and PyTorch.
+
+- title: Machine Learning
+  layout: left
+  sub_title: Intermediate
+  description: |
+    Strong foundation in ML algorithms including supervised/unsupervised learning,
+    neural networks, and model evaluation. Hands-on experience with real-world projects.
+
+- title: Data Science
+  layout: left
+  sub_title: Intermediate
+  description: |
+    Skilled in data wrangling, visualization, and statistical analysis.
+    Experienced with SQL, Jupyter, and Git for collaborative work.
+
+- title: Web Development
+  layout: left
+  sub_title: Beginner
+  description: |
+    Familiar with HTML, CSS, JavaScript, and basic frontend frameworks.
+    Built and deployed personal projects using GitHub Pages.

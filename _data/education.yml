@@ -1,20 +1,25 @@
-- title: Master of Engineering (MEng) - Expected Aug. 2027
-  layout: top
+- title: Master of Engineering (MEng)
+  layout: left
   sub_title: Artificial Intelligence
   caption: Toronto Metropolitan University
   link: https://www.ee.torontomu.ca/mengai.html
   link_text: View MEng Program Outline
+  quote: "<img src='/images/TMU-logo.png' alt='Toronto Metropolitan University Logo' width='25%'>"
+  description: Expected Aug. 2027
 
 - title: Master of Education (MEd)
-  layout: top
+  layout: left
   sub_title: Digital Technologies
   caption: Ontario Tech University
   link: https://learner.mycreds.ca/sharelink/710d04f4-83d8-4d28-a2a3-229e14e5075f/53ffc885-a8e3-4bac-aa31-97fdc7b2721d
   link_text: View MEd Credential
-
-- title: Honours Bachelor of Information Technology (BIT) with Highest Distinction
-  layout: top
+  quote: "<img src='/images/OTU-logo.jpg' alt='Toronto Metropolitan University Logo' width='25%'>"
+    
+- title: Bachelor of Information Technology (BIT)
+  layout: left
   sub_title: Networking and IT Security
   caption: Ontario Tech University
   link: https://www.parchment.com/u/award/2cf6d53bf9ad488e37619cfbb4922ebc
   link_text: View BIT Credential
+  quote: "<img src='/images/OTU-logo.jpg' alt='Toronto Metropolitan University Logo' width='25%'>"
+  description: with Highest Distinction
