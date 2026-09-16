@@ -17,7 +17,7 @@
       {%- include about.html -%}
 
       {%- if site.version == 2 -%}
-        {%- assign sections = "skills education projects experience" | split: " " -%}
+        {%- assign sections = "skills education projects certifications experience" | split: " " -%}
         {%- for sectionName in sections -%}
           {%- assign items = site.data[sectionName] -%}
           {%- if items -%}
