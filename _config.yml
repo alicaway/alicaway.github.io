@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Juan Carlo (JC) Alicaway
-title: Aspiring AI/ML Engineer
+title: AI/ML Engineer · MEng AI Candidate (TMU, 2027)
 email: juancarlo@alicaway.net
 website: www.alicaway.net
 
@@ -51,20 +51,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: /images/headshot.png
 about_content: | # this will include new lines to allow paragraphs
-  I’m JC, a Master of Engineering in Artificial Intelligence student at Toronto Metropolitan University.
+  I’m JC, a candidate for Master of Engineering (MEng) in Artificial Intelligence at Toronto Metropolitan University.
 
   My professional experience includes working as a Senior IT Business Analyst for the Government of Ontario and as a Lecturer of Business Calculus at Ontario Tech University. I’m now focused on building my career in AI Engineering, Machine Learning, and Data Science/Analytics.
-
-  <hr>
-
-  **Explore my AI/ML work and learning progress:**
-
-  <a href="https://roadmap.sh/u/69e04a8935198b31d6fc9964?roadmapId=machine-learning" target="_blank" rel="noopener noreferrer">roadmap.sh — ML Engineer</a>
-
-  <a href="https://roadmap.sh/u/69e04a8935198b31d6fc9964?roadmapId=ai-engineer" target="_blank" rel="noopener noreferrer">roadmap.sh — AI Engineer</a>
-
-  <a href="https://github.com/alicaway" target="_blank" rel="noopener noreferrer">GitHub Projects</a>
-
   
 # Footer
 footer_show_references: false

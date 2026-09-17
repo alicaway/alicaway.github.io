@@ -1,14 +1,19 @@
-- title: Python
+- title: AI / Machine Learning
   layout: left
   description: |
-    TensorFlow, Pytorch, Numpy, Pandas, Seaborn, Matplotlib, BeautifulSoup4
+    PyTorch · TensorFlow · scikit-learn · Machine Learning · Deep Learning
 
-- title: Technology Stack
+- title: Data Science
   layout: left
   description: |
-    Jupyter Notebook, VS Code, GitHub, R, Copilot, Cline, Claude Code, OpenAI Codex, OpenRouter, OpenCode, Kaggle, Hugging Face
+    Python · SQL · R · Pandas · NumPy · Statistics · Probability · Data Visualization
 
-- title: Mathematics
+- title: AI / LLM Engineering
   layout: left
   description: |
-    Calculus, Linear Algebra, Statistics, Probability
+    LLM APIs · OpenRouter · Hugging Face · Prompt Engineering · AI Automation
+
+- title: Development & Tools
+  layout: left
+  description: |
+    Git · GitHub · Jupyter · VS Code · Docker
