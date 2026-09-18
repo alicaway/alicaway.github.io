@@ -11,25 +11,32 @@
 #     Built a data pipeline with Airflow DAG orchestration, containerized with Docker, and deployed on AWS.
 #     Implemented experiment tracking with Weights & Biases for model performance monitoring.
 
+- title: Predicting Electric Vehicle Purchase
+  link: https://github.com/alicaway/Predicting-Electric-Vehicle-Purchases.git
+  quote: >
+    Python · Pandas · Scaler · Encoders · Classifiers
+  description: |
+    Built and evaluated a machine-learning classification pipeline to predict electric vehicle purchases, achieving a 0.941 score. Applied data preprocessing, exploratory data analysis, feature engineering, and model evaluation to identify purchasing patterns and generate predictions from a large-scale training dataset.
+
+- title: What In The World Is Happening Today
+  link: https://github.com/alicaway/What-In-The-World-Is-Happening-Today
+  quote: >
+    Python · Web Scraping · Generative AI/LLMs · API Integration · Discord Webhooks
+  description: |
+    An automated news intelligence pipeline that aggregates content from 50+ news sources and uses LLMs to identify and summarize the 10 most important global stories. The system transforms large volumes of unstructured news into concise, actionable summaries and delivers them directly to Discord via webhooks, using OpenRouter for model inference.
+
 - title: OpenRouter Free Model Monitor
   link: https://github.com/alicaway/OpenRouter-Free-Model-Monitor
   quote: >
-    Automated Free-Model Tracking for OpenRouter & Webhook Alerting
+    Python · BeautifulSoup4 · Scheduled Workflows · Change Detection · Alerting
   description: |
     An automated monitoring tool that tracks OpenRouter’s free AI models and detects when models are added, removed, or stop being available for free. The system can send Discord webhook alerts when a model you’re using is no longer free, helping prevent unexpected disruptions and keeping AI workflows cost-conscious.
 
     Built to run on a scheduled basis, the project combines automation, API monitoring, and real-time notifications to make managing free AI models more reliable.
 
-- title: What In The World Is Happening Today
-  link: https://github.com/alicaway/What-In-The-World-Is-Happening-Today
-  quote: >
-    LLM-Powered Global News Aggregation & Summarization
-  description: |
-    An automated news intelligence pipeline that aggregates content from 50+ news sources and uses LLMs to identify and summarize the 10 most important global stories. The system transforms large volumes of unstructured news into concise, actionable summaries and delivers them directly to Discord via webhooks, using OpenRouter for model inference.
-
 - title: Implementations of Core Machine Learning Algorithms
   link: https://github.com/alicaway/roadmap_sh
   quote: >
-    End-to-End Machine Learning Algorithm Implementations
+    Machine Learning · Deep Learning · Reinforcement Learning · Regression · Classification
   description: |
     A hands-on machine learning portfolio covering core paradigms including supervised learning, unsupervised learning, deep learning, and reinforcement learning. The repository implements and explores techniques across classification, regression, clustering, neural networks, and reinforcement learning, providing practical implementations of fundamental ML concepts.
