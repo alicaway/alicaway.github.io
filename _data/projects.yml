@@ -12,7 +12,7 @@
 #     Implemented experiment tracking with Weights & Biases for model performance monitoring.
 
 - title: Predicting Electric Vehicle Purchase
-  link: https://github.com/alicaway/Predicting-Electric-Vehicle-Purchases.git
+  link: https://github.com/alicaway/Predicting-Electric-Vehicle-Purchases
   quote: >
     Python · Pandas · Scaler · Encoders · Classifiers
   description: |
